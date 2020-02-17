@@ -1,5 +1,5 @@
 # Modified MNIST Classification
-In this project, we want to classify modified MNIST dataset using Keras. 
+In this project, we want to classify modified MNIST dataset using Convolutional Neural Networks in Keras. 
 ## Dataset
 Modified MNIST is a modified version of original MNIST where there is more than one hand-written number to identify. The task is to find the largest number in each image, in terms of pixels occupied. As an example, see the following picture with their correspoding labels on top:
 <tr>
