@@ -32,5 +32,3 @@ Make sure you install all the following packages in your environment:
 * future
 ### Experiments
 You can choose from three deep convolutional models from "models.py". 
-## Acknowledgement
-This project has been done as part of the COMP551 (Applied Machine Learning) in McGill University.
